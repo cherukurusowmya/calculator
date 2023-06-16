@@ -1,0 +1,17 @@
+body{
+    background-image: url(c2.jpg);
+    background-size: cover;
+    margin: auto;
+    margin-top: 230px;
+    width: 200px;
+}
+#result{
+    height: 20px;
+    width: fit-content;
+    background-color: lightblue;
+}
+#wait{
+    height: 20px;
+    width: max-content;
+    background-color: lightblue;
+}
